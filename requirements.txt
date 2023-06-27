@@ -11,7 +11,6 @@ debugpy==1.6.7
 executing==1.2.0
 filelock==3.9.0
 fonttools==4.39.3
-fsspec==2023.4.0
 huggingface-hub==0.14.1
 idna==3.4
 jedi==0.18.2
